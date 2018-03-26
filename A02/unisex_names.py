@@ -1,3 +1,5 @@
+#warming up exercise
+
 data = open( "unisex_names_table.csv", "r" )
 names = data.read()
 
