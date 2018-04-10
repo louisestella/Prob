@@ -17,3 +17,6 @@ for item in weather_data:
         weather_counts[item] = 1
         
 print(weather_counts)
+
+
+    
